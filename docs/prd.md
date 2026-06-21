@@ -23,3 +23,4 @@ I want to make an offline-first PWA with Nuxt, Zod Vuetify and Dexie.js for mana
 - Possibility to choose to which back/money pot each bill/investiment relates to. The banks itself must be kind of a wrapper for money pot; there will be always at least one money pot since a back creation.
 - Money values stored as integers;
 - Profiles, so I can have, e.g., the real financial program of the month and another profile with what I would whether my wage increased.
+- A Docussaurus documentation capable of displaying mermeid diagrams.
